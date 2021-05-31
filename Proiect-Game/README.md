@@ -20,7 +20,7 @@ What you can do in this game:
   + When you start the game it will appear automatically 7 stacks of cards(middle down), one stack with their back shown(left up) and 4 empty stacks where it will be the final stack ordered
   + When the stack of unknown cards is empty, there are 2 options:
        + It will appear a image in that place with the message `Try again` and only if clicked it will generate another game
-       + It will appear a image wiht the message `Won` only when in the 4 stacks, the last cards are only Kings( which means that there are 52 cards)
+       + It will appear a image wiht the message `You've Won` only when in the 4 stacks, the last cards are only Kings( which means that there are 52 cards)
               + By clicking the image, it will generate a new game
   + If you go back to the start menu, your progress will be lost and will start a new instance of the game
   + You can go to a previous move by pressing the `Back` on the keyboard, because all of the moves are saved in an array
